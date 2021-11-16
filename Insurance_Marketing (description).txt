@@ -1,0 +1,99 @@
+Marital: 	
+
+        0	divorced
+        1	married
+        2	single
+        3	unknown
+	
+Job: 
+
+       0	admin.
+       1	blue.collar
+       2	entrepreneur
+       3	housemaid
+       4	management
+       5	retired
+       6	self-employed
+       7	services
+       8	student
+       9	technician
+       10       unemployed
+       11       unknown
+
+Qualification: 
+
+       0	Basic
+       1	high.school
+       2	illiterate
+       3	professional.course
+       4	university.degree
+       5	unknown
+
+Default_Premium: 
+
+       0	no
+       1	unknown
+       2	yes
+
+Housing_Loan: 
+
+       0	no
+       1	unknown
+       2	yes
+
+Personal_Loan: 
+
+       0	no
+       1	unknown
+       2	yes
+
+Contact: 
+
+       0	cellular
+       1	telephone
+
+month: 
+
+       0	apr
+       1	aug
+       2	dec
+       3	jul
+       4	jun
+       5	mar
+       6	may
+       7	nov
+       8	oct
+       9	sep
+
+
+Last_Contact_Day: 
+
+       0	fri
+       1	mon
+       2	thu
+       3	tue
+       4	wed
+
+previous_Outcome: 
+
+       0	failure
+       1	nonexistent
+       2	success
+
+client subcribed: 
+
+       0	no
+       1	yes
+
+
+
+
+
+
+
+
+
+
+	
+
+		
